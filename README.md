@@ -51,5 +51,5 @@ This system also provides a password-protected interface for authorized personne
 - User-friendly interface with password protection.
 - Extendible to a cloud-based IoT solution for centralized monitoring.
 
-Microcontroller used - PIC16F877A
-Developer Tools - MPLAB x IDE, LPLAD x XC8 (Compiler),PICSimlab
+#Microcontroller used - PIC16F877A
+#Developer Tools - MPLAB x IDE, LPLAD x XC8 (Compiler),PICSimlab
