@@ -50,3 +50,6 @@ This system also provides a password-protected interface for authorized personne
 - Proactive logging of critical events to detect potential issues.
 - User-friendly interface with password protection.
 - Extendible to a cloud-based IoT solution for centralized monitoring.
+
+Microcontroller used - PIC16F877A
+Developer Tools - MPLAB x IDE, LPLAD x XC8 (Compiler),PICSimlab
